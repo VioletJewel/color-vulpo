@@ -100,3 +100,21 @@ hi! link StatusLineTermNC StatusLineNC
 hi! link Folded NonText
 hi! link MoreMsg ModeMsg
 hi! link Question ModeMsg
+
+let g:terminal_color_0  = '#444444'
+let g:terminal_color_1  = '#d75f5f'
+let g:terminal_color_2  = '#5f875f'
+let g:terminal_color_3  = '#d7875f'
+let g:terminal_color_4  = '#5f8787'
+let g:terminal_color_5  = '#875f5f'
+let g:terminal_color_6  = '#87875f'
+let g:terminal_color_7  = '#d7d7af'
+let g:terminal_color_8  = '#626262'
+let g:terminal_color_9  = '#ff5f5f'
+let g:terminal_color_10 = '#87af5f'
+let g:terminal_color_11 = '#d7af87'
+let g:terminal_color_12 = '#87afaf'
+let g:terminal_color_13 = '#af87d7'
+let g:terminal_color_14 = '#5faf87'
+let g:terminal_color_15 = '#c6c6c6'
+
